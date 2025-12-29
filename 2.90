@@ -1,0 +1,15 @@
+Collecting pyttsx3
+  Using cached pyttsx3-2.99-py3-none-any.whl.metadata (6.2 kB)
+Collecting comtypes (from pyttsx3)
+  Downloading comtypes-1.4.13-py3-none-any.whl.metadata (7.2 kB)
+Collecting pypiwin32 (from pyttsx3)
+  Using cached pypiwin32-223-py3-none-any.whl.metadata (236 bytes)
+Collecting pywin32 (from pyttsx3)
+  Using cached pywin32-311-cp313-cp313-win_amd64.whl.metadata (10 kB)
+Using cached pyttsx3-2.99-py3-none-any.whl (32 kB)
+Downloading comtypes-1.4.13-py3-none-any.whl (254 kB)
+Using cached pypiwin32-223-py3-none-any.whl (1.7 kB)
+Using cached pywin32-311-cp313-cp313-win_amd64.whl (9.5 MB)
+Installing collected packages: pywin32, pypiwin32, comtypes, pyttsx3
+
+Successfully installed comtypes-1.4.13 pypiwin32-223 pyttsx3-2.99 pywin32-311

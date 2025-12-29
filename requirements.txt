@@ -1,0 +1,16 @@
+# core
+streamlit>=1.18.0
+numpy
+pandas
+scikit-learn
+plotly
+matplotlib
+joblib
+fpdf
+requests
+sqlalchemy
+python-dotenv
+pyjwt
+shap
+torch   # optional: large, install only if you want DQN
+
